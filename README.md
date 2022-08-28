@@ -1,0 +1,1 @@
+Simple tutorial project for creating an AR application with ARCore in Unity. It follows this [CodeLab](https://codelabs.developers.google.com/arcore-unity-ar-foundation#0)
